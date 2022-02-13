@@ -6,9 +6,7 @@ import org.launchcode.quiz.question.MultipleChoiceQuestion;
 import org.launchcode.quiz.question.ShortAnswerQuestion;
 import org.launchcode.quiz.question.TrueFalseQuestion;
 
-/**
- * Created by Chris Bay
- */
+
 public class Main {
 
     public static void main(String[] args) {
