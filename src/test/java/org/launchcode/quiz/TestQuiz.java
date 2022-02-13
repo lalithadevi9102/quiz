@@ -6,9 +6,7 @@ import org.launchcode.quiz.question.ShortAnswerQuestion;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by Chris Bay
- */
+
 public class TestQuiz {
 
     @Test
