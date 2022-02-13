@@ -4,9 +4,7 @@ import org.launchcode.quiz.assignment.Gradeable;
 
 import java.util.ArrayList;
 
-/**
- * Created by Chris Bay
- */
+
 public class Student {
 
     private String name;
